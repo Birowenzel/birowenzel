@@ -1,0 +1,101 @@
+.desktop {
+    background-color: #8d95a4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #8d95a4;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .design-sem-nome {
+    position: absolute;
+    width: 230px;
+    height: 221px;
+    top: 36px;
+    left: 26px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    width: 336px;
+    top: 35px;
+    left: 579px;
+    text-shadow: 0px 4px 4px #2238a3;
+    font-family: "Karantina", Helvetica;
+    font-weight: 400;
+    color: #fbe8e8;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .estudante-de-an-lise {
+    position: absolute;
+    width: 918px;
+    top: 205px;
+    left: 290px;
+    text-shadow: 0px 4px 4px #2338a4bd;
+    font-family: "Karantina", Helvetica;
+    font-weight: 400;
+    color: #fce9e9;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .png-transparent {
+    position: absolute;
+    width: 289px;
+    height: 268px;
+    top: 628px;
+    left: 256px;
+    object-fit: cover;
+  }
+  
+  .desktop .png-clipart-email {
+    position: absolute;
+    width: 268px;
+    height: 268px;
+    top: 619px;
+    left: 940px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    width: 294px;
+    top: 919px;
+    left: 251px;
+    text-shadow: 0px 4px 4px #2238a3;
+    font-family: "Karantina", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    width: 294px;
+    top: 909px;
+    left: 927px;
+    text-shadow: 0px 4px 4px #2238a3;
+    font-family: "Karantina", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
